@@ -7,7 +7,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:id="@id/topTextInput"
+        android:id="@+id/topTextInput"
         android:width="300dp"
         />
 
